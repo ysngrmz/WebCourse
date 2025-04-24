@@ -1,0 +1,11 @@
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\bin\Debug\net8.0\WebCourse.Application.deps.json
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\bin\Debug\net8.0\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\bin\Debug\net8.0\WebCourse.Application.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.AssemblyInfoInputs.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.AssemblyInfo.cs
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.csproj.CoreCompileInputs.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\refint\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\ref\WebCourse.Application.dll

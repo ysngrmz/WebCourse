@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|c:\\t\u00FCm dosyalar\\abur cubur\\dersler\\ybs - internet programlama - 2\\codes\\webcourse\\webcourse.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|solutionrelative:webcourse.web\\controllers\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7CB8FD-A6ED-44FB-B08C-3ED9639986FA}|WebCourse.Domain\\WebCourse.Domain.csproj|c:\\t\u00FCm dosyalar\\abur cubur\\dersler\\ybs - internet programlama - 2\\codes\\webcourse\\webcourse.domain\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF7CB8FD-A6ED-44FB-B08C-3ED9639986FA}|WebCourse.Domain\\WebCourse.Domain.csproj|solutionrelative:webcourse.domain\\entities\\villanumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|c:\\t\u00FCm dosyalar\\abur cubur\\dersler\\ybs - internet programlama - 2\\codes\\webcourse\\webcourse.web\\views\\villanumber\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|solutionrelative:webcourse.web\\views\\villanumber\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|c:\\t\u00FCm dosyalar\\abur cubur\\dersler\\ybs - internet programlama - 2\\codes\\webcourse\\webcourse.web\\viewmodels\\villanumbervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389BA15C-FAE6-4307-88E9-18E4FE175298}|WebCourse.Web\\WebCourse.Web.csproj|solutionrelative:webcourse.web\\viewmodels\\villanumbervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VillaNumberVM.cs",
+              "DocumentMoniker": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\ViewModels\\VillaNumberVM.cs",
+              "RelativeDocumentMoniker": "WebCourse.Web\\ViewModels\\VillaNumberVM.cs",
+              "ToolTip": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\ViewModels\\VillaNumberVM.cs",
+              "RelativeToolTip": "WebCourse.Web\\ViewModels\\VillaNumberVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:40:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaNumber.cs",
+              "DocumentMoniker": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Domain\\Entities\\VillaNumber.cs",
+              "RelativeDocumentMoniker": "WebCourse.Domain\\Entities\\VillaNumber.cs",
+              "ToolTip": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Domain\\Entities\\VillaNumber.cs",
+              "RelativeToolTip": "WebCourse.Domain\\Entities\\VillaNumber.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:39:49.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\Views\\VillaNumber\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebCourse.Web\\Views\\VillaNumber\\Create.cshtml",
+              "ToolTip": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\Views\\VillaNumber\\Create.cshtml",
+              "RelativeToolTip": "WebCourse.Web\\Views\\VillaNumber\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T11:38:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillaNumberController.cs",
+              "DocumentMoniker": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\Controllers\\VillaNumberController.cs",
+              "RelativeDocumentMoniker": "WebCourse.Web\\Controllers\\VillaNumberController.cs",
+              "ToolTip": "C:\\T\u00FCm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Web\\Controllers\\VillaNumberController.cs*",
+              "RelativeToolTip": "WebCourse.Web\\Controllers\\VillaNumberController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:12:34.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

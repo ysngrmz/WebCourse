@@ -1,0 +1,17 @@
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Infrastructure.deps.json
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Infrastructure.runtimeconfig.json
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Infrastructure.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Infrastructure.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.csproj.AssemblyReference.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.AssemblyInfoInputs.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.AssemblyInfo.cs
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\refint\WebCourse.Infrastructure.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.genruntimeconfig.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\ref\WebCourse.Infrastructure.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Domain.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Domain.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCours.83867612.Up2Date

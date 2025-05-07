@@ -178,3 +178,6 @@ C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCour
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\obj\Debug\net8.0\WebCourse.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\obj\Debug\net8.0\WebCourse.Web.sourcelink.json
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\bin\Debug\net8.0\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Web\bin\Debug\net8.0\WebCourse.Application.pdb

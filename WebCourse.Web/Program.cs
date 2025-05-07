@@ -1,6 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
+using WebCourse.Application.Common.Interfaces;
 using WebCourse.Infrastructure.Data;
+using WebCourse.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(option =>
 option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IVillaRepository, VillaRepository>();
 
 var app = builder.Build();
 

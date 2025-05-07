@@ -9,3 +9,8 @@ C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCour
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\refint\WebCourse.Application.dll
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.pdb
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\ref\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\bin\Debug\net8.0\WebCourse.Domain.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\bin\Debug\net8.0\WebCourse.Domain.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.csproj.AssemblyReference.cache
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCourse.Application.sourcelink.json
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Application\obj\Debug\net8.0\WebCours.C2FF0D30.Up2Date

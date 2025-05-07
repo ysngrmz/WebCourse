@@ -10,5 +10,7 @@ namespace WebCourse.Web.ViewModels
 
         [ValidateNever]
         public IEnumerable<SelectListItem> VillaList { get; set; }
+
+
     }
 }

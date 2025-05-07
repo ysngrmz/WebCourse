@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WebCourse.Application\WebCourse.Application.csproj" />
     <ProjectReference Include="..\WebCourse.Infrastructure\WebCourse.Infrastructure.csproj" />
   </ItemGroup>
 

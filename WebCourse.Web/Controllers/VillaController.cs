@@ -1,21 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebCourse.Domain.Entities;
-using WebCourse.Infrastructure.Data;
+using WebCourse.Application.Common.Interfaces;
 
 namespace WebCourse.Web.Controllers
 {
     public class VillaController : Controller
     {
 
-        private readonly ApplicationDbContext db_;
+        private readonly IVillaRepository villaRepo_;
 
-        public VillaController(ApplicationDbContext db)
+        public VillaController(IVillaRepository villaRepo)
         {
-            db_ = db;
+            villaRepo_ = villaRepo;
         }
         public IActionResult Index()
         {
-            var villas = db_.VillaDB.ToList();
+            var villas = villaRepo_.GetAll();
+            //Interface'den önceki hali
+            //var villas = db_.VillaDB.ToList();
             return View(villas);
         }
 
@@ -36,8 +38,10 @@ namespace WebCourse.Web.Controllers
 
             if (ModelState.IsValid)
             {
-                db_.VillaDB.Add(villa);
-                db_.SaveChanges();
+                villaRepo_.Add(villa);
+                villaRepo_.Save();
+                //db_.VillaDB.Add(villa);
+                //db_.SaveChanges();
 
                 return RedirectToAction("Index", "Villa");
             }
@@ -50,7 +54,8 @@ namespace WebCourse.Web.Controllers
 
         public IActionResult Update(int villaID)
         {
-            Villa? villaObj = db_.VillaDB.FirstOrDefault(u => u.Id == villaID);
+            //Villa? villaObj = db_.VillaDB.FirstOrDefault(u => u.Id == villaID);
+            Villa? villaObj = villaRepo_.Get(u => u.Id == villaID);
 
             if (villaObj is null)
             {
@@ -73,8 +78,11 @@ namespace WebCourse.Web.Controllers
 
             if (ModelState.IsValid)
             {
-                db_.VillaDB.Update(villa);
-                db_.SaveChanges();
+                //db_.VillaDB.Update(villa);
+                //db_.SaveChanges();
+
+                villaRepo_.Update(villa);
+                villaRepo_.Save();
 
                 return RedirectToAction("Index", "Villa");
             }
@@ -84,8 +92,8 @@ namespace WebCourse.Web.Controllers
 
         public IActionResult Delete(int villaID)
         {
-            Villa? villaObj = db_.VillaDB.FirstOrDefault(u => u.Id == villaID);
-
+            //Villa? villaObj = db_.VillaDB.FirstOrDefault(u => u.Id == villaID);
+            Villa? villaObj = villaRepo_.Get(u => u.Id == villaID);
 
             if (villaObj is null)
             {
@@ -102,12 +110,18 @@ namespace WebCourse.Web.Controllers
         [HttpPost]
         public IActionResult Delete(Villa villa)
         {
-            Villa? villaObjFromDB = db_.VillaDB.FirstOrDefault(u => u.Id == villa.Id);
+            //Villa? villaObjFromDB = db_.VillaDB.FirstOrDefault(u => u.Id == villa.Id);
+
+            Villa? villaObjFromDB = villaRepo_.Get(u => u.Id == villa.Id);
 
             if (villaObjFromDB is not null)
             {
-                db_.VillaDB.Remove(villaObjFromDB);
-                db_.SaveChanges();
+                //db_.VillaDB.Remove(villaObjFromDB);
+                //db_.SaveChanges();
+
+                villaRepo_.Remove(villaObjFromDB);
+                villaRepo_.Save();
+
                 TempData["success"] = "Villa Object Deleted Successfuly";
             }    
 

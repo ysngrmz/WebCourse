@@ -1996,6 +1996,19 @@
           }
         }
       },
+      "WebCourse.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WebCourse.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebCourse.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebCourse.Application.dll": {}
+        }
+      },
       "WebCourse.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2014,6 +2027,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2",
+          "WebCourse.Application": "1.0.0",
           "WebCourse.Domain": "1.0.0"
         },
         "compile": {
@@ -5446,6 +5460,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "WebCourse.Application/1.0.0": {
+      "type": "project",
+      "path": "../WebCourse.Application/WebCourse.Application.csproj",
+      "msbuildProject": "../WebCourse.Application/WebCourse.Application.csproj"
+    },
     "WebCourse.Domain/1.0.0": {
       "type": "project",
       "path": "../WebCourse.Domain/WebCourse.Domain.csproj",
@@ -5461,6 +5480,7 @@
     "net8.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
+      "WebCourse.Application >= 1.0.0",
       "WebCourse.Infrastructure >= 1.0.0"
     ]
   },
@@ -5496,6 +5516,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Tüm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Application\\WebCourse.Application.csproj": {
+              "projectPath": "C:\\Tüm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Application\\WebCourse.Application.csproj"
+            },
             "C:\\Tüm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Infrastructure\\WebCourse.Infrastructure.csproj": {
               "projectPath": "C:\\Tüm Dosyalar\\Abur Cubur\\Dersler\\YBS - Internet Programlama - 2\\Codes\\WebCourse\\WebCourse.Infrastructure\\WebCourse.Infrastructure.csproj"
             }

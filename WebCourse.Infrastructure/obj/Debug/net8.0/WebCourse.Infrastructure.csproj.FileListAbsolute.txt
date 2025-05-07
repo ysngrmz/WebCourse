@@ -15,3 +15,6 @@ C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCour
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Domain.dll
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Domain.pdb
 C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCours.83867612.Up2Date
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Application.dll
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\bin\Debug\net8.0\WebCourse.Application.pdb
+C:\Tüm Dosyalar\Abur Cubur\Dersler\YBS - Internet Programlama - 2\Codes\WebCourse\WebCourse.Infrastructure\obj\Debug\net8.0\WebCourse.Infrastructure.sourcelink.json
